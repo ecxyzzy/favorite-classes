@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favorite-classes/static/css/main.e6c13ad2.css",
+    "main.js": "/favorite-classes/static/js/main.0e48abcf.js",
+    "index.html": "/favorite-classes/index.html",
+    "main.e6c13ad2.css.map": "/favorite-classes/static/css/main.e6c13ad2.css.map",
+    "main.0e48abcf.js.map": "/favorite-classes/static/js/main.0e48abcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0e48abcf.js"
+  ]
+}
