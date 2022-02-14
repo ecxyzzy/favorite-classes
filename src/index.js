@@ -27,9 +27,11 @@ class Home extends React.Component {
       <ul>
         {this.state.classes.map((c) => <Class name={c} />)}
       </ul>
+      <h2>Add your favorite classes below!</h2>
       <form onSubmit={this.handleSubmit}>
+        <label>Class Name: </label>
         <input type="text" value={this.state.value} onChange={this.handleChange} />
-        <input type="submit" value="Submit" />
+        <input class="submit" type="submit" value="Submit" />
       </form>
       </>
     )
