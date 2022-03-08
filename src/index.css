@@ -3,15 +3,17 @@
  * <https://ics.uci.edu/~thornton/>
  */
 
- body {
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
   background-color: #ccf;
   color: black;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Open Sans', sans-serif;
   font-size: 12pt;
   line-height: 1.25;
 }
 
-a:link {
+ a:link {
   color: #009;
   background-color: inherit;
 }
@@ -29,23 +31,23 @@ a:hover {
 h1 {
   color: #009;
   background-color: inherit;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18pt;
   font-weight: bold;
   font-style: italic;
 }
 
 h2 {
-  color: #009;
-  background-color: inherit;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 14pt;
-  font-weight: bold;
-  font-style: normal;
+    color: #009;
+    background-color: inherit;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    font-style: normal;
 }
 
 input.submit {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Open Sans', sans-serif;
   font-size: 10pt;
 }
 
